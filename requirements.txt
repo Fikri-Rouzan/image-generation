@@ -1,3 +1,4 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
 diffusers==0.39.0
 matplotlib==3.10.0
 numpy==2.0.2
@@ -5,5 +6,5 @@ pillow==11.3.0
 pyngrok==8.1.2
 streamlit==1.60.0
 streamlit-drawable-canvas==0.8.0
-torch==2.11.0+cpu
+torch==2.11.0+cu121
 transformers==5.13.1
