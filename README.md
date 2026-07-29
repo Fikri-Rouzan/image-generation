@@ -8,14 +8,14 @@ An end-to-end computer vision project for text-to-image generation and image ana
 
 ## 🛠️ Tech Stack
 
-| Category                    | Technologies Used                                                                                                                   |
-| :-------------------------- | :---------------------------------------------------------------------------------------------------------------------------------- |
-| 🌐 **Programming Language** | `Python`                                                                                                                            |
-| 🌱 **Environment**          | `Jupyter Notebook`                                                                                                                  |
-| 🧩 **Frameworks**           | `PyTorch`, `Streamlit`                                                                                                              |
-| ⚛️ **Libraries**            | `NumPy`, `Matplotlib`, `Diffusers`, `pyngrok`, `Streamlit - Drawable Canvas`, `Transformers`, `Pillow`, `Accelerate`, `safetensors` |
-| ⚡ **Tool**                 | `Google Colab`                                                                                                                      |
-| 🚧 **Tunneling Service**    | `ngrok`                                                                                                                             |
+| Category                    | Technologies Used                                                                                                                      |
+| :-------------------------- | :------------------------------------------------------------------------------------------------------------------------------------- |
+| 🌐 **Programming Language** | `Python`                                                                                                                               |
+| 🌱 **Environment**          | `Jupyter Notebook`                                                                                                                     |
+| 🧩 **Frameworks**           | `PyTorch`, `Streamlit`                                                                                                                 |
+| ⚛️ **Libraries**            | `NumPy`, `Matplotlib`, `Diffusers`, `pyngrok`, `Streamlit - Drawable Canvas`,<br>`Transformers`, `Pillow`, `Accelerate`, `safetensors` |
+| ⚡ **Tool**                 | `Google Colab`                                                                                                                         |
+| 🚧 **Tunneling Service**    | `ngrok`                                                                                                                                |
 
 ---
 
