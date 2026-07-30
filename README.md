@@ -14,6 +14,7 @@ An end-to-end computer vision project for text-to-image generation and image ana
 | 🌱 **Environment**          | `Jupyter Notebook`                                                                                                                     |
 | 🧩 **Frameworks**           | `PyTorch`, `Streamlit`                                                                                                                 |
 | ⚛️ **Libraries**            | `NumPy`, `Matplotlib`, `Diffusers`, `pyngrok`, `Streamlit - Drawable Canvas`,<br>`Transformers`, `Pillow`, `Accelerate`, `safetensors` |
+| 🤖 **Generative AI Models** | `Stable-Diffusion-v1-5`, `Stable-Diffusion-Inpainting`                                                                                 |
 | ⚡ **Tool**                 | `Google Colab`                                                                                                                         |
 | 🚧 **Tunneling Service**    | `ngrok`                                                                                                                                |
 
